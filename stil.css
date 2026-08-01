@@ -1,4 +1,47 @@
-p{
-    font-size: 50px;
-    margin: auto , auto;
+#q{
+    font-size: 30px;
+   
+    width: auto;
+    height: auto;
+  text-align: center;
+   margin: 0px auto 20px auto;
+}
+#a {
+    font-size: 30px;
+    color: red;
+    text-align: center;
+ margin: 30px auto 20px auto;
+}
+
+
+.hart1{
+  width: 200px;
+  height: 100px;
+  position: relative;
+  left: 330px;
+  background-color: red;
+  border-top-left-radius: 50%;
+  border-end-start-radius: 50%;
+  transform: rotate(45deg);
+  
+}
+.hart2{
+  width: 200px;
+  height: 100px;
+  position: relative;
+  left: 400px;
+  top: -100px;
+  background-color: red;
+  border-top-left-radius: 50%;
+  border-end-start-radius: 50%;
+  transform: rotate(135deg);
+  
+}
+
+h1{
+  position: absolute;
+  left:429px;
+  top: 120px;
+  background-color: red;
+  width: min-content;
 }
